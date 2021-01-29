@@ -9,14 +9,14 @@ Components Required:
 3. Load cell 
 4. Jumpers
 
-Steps To Execyte the code:
+Steps To Execute the code:
 Note: This code is for Python 2.7
 
 Step 1: Prepare the load cell as in the diagram.
 
-Step 2: Connect the sensors as the circuit image is uploaded avobe
+Step 2: Connect the sensors as the circuit image is uploaded above
 
-Step 3: Before execuiting code remove all the weight from the load cell
+Step 3: Before executing code remove all the weight from the load cell
 
 Step 4: Run the code, you'll get the weight in Grams.
 
